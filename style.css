@@ -1,0 +1,30 @@
+#cookie {
+
+background-color: bisque;
+margin: 10px;
+height: 100;
+width: 100;
+justify-content: center;
+}
+
+.shop-item {
+  text-align: center;
+}
+
+#flex-shop {
+  margin: 10px;
+  padding: auto;
+  font-size: 20px;
+}
+
+#shop {
+  height: 200px;
+  width: 400px;
+  font-family: monospace;
+  align-items:left;
+  justify-content: center;
+}
+
+button {
+
+}
